@@ -1,0 +1,2 @@
+# chart
+membuat table chart
